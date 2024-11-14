@@ -9,11 +9,6 @@ This Tech Blog application is a CMS-style blog site built with Node.js, Express.
 
 [Usage](#usage)
 
-[Features](#features)
-
-[Credits](#credits)
-
-
 ## Installation
 
 
