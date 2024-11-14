@@ -1,0 +1,20 @@
+[
+    {
+    "title": "My First Blog Post",
+    "content": "Hey guys! Today I was learning React.js and i will conmtinue to post!",
+    "date_created": "2024-11-12",
+    "user_id": "0"
+    },
+    {
+    "title": "Hello, from Texas",
+    "content": "Howdy! I just moved to Texas. It is great here and I'm excited to keep posting from this great state!",
+    "date_created": "2024-11-12",
+    "user_id": "1"
+    },
+    {
+    "title": "Check out this tutorial",
+    "content": "its this youtuber called supersimpledev that really helped me learn the basics of js",
+    "date_created": "2024-11-12",
+    "user_id": "2"
+    }
+]
